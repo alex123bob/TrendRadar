@@ -7,4 +7,4 @@ MSTR
 MicroStrategy
 Strategy
 Bitcoin
-+stock
+微策略
