@@ -119,3 +119,7 @@ platforms:
     name: "Github"
   - id: "v2ex"
     name: "V2ex"
+  - id: "fastbull"
+    name: "FastBull"
+  - id: "xueqiu"
+    name: "XueQiu"
