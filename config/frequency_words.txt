@@ -8,3 +8,6 @@ MicroStrategy
 Strategy
 Bitcoin
 微策略
+美股
+纳斯达克
+NASDAQ
