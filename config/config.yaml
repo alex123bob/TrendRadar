@@ -117,8 +117,6 @@ platforms:
     name: "知乎"
   - id: "github"
     name: "Github"
-  - id: "v2ex"
-    name: "V2ex"
   - id: "fastbull"
     name: "FastBull"
   - id: "xueqiu"
